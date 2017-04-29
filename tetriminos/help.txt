@@ -1,0 +1,8 @@
+How to create your own shape ?
+
+1. Create a file in the tetriminos folder : my_file_example.tetrimino
+2. Your file must be composed in the following way : 
+  - on the first line, the size and color of the piece in this format: width height color_code\n (the number of
+	the color corresponds to the ncurses capacity’s color numbers)
+  - on the h following lines (where h is the height of the tetrimino), the piece’s shape composed with asterisks (*)
+	and spaces (" ").
