@@ -24,3 +24,4 @@ Options:
 
 ### Example :
 
+![alt text](https://raw.githubusercontent.com/brd6/Epitech-tetris/master/sample/tetris.jpg)
